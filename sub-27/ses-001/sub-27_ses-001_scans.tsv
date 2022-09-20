@@ -1,0 +1,4 @@
+filename	acq_time	operator	randstr
+func/sub-27_ses-001_task-PSAP_bold.nii.gz	2021-08-04T12:48:52.245000	n/a	e4075e9b
+func/sub-27_ses-001_task-PSAP_sbref.nii.gz	2021-08-04T12:48:52.245000	n/a	e4075e9b
+anat/sub-27_ses-001_T1w.nii.gz	2021-08-04T13:07:02.030000	n/a	f11653c8

@@ -1,0 +1,4 @@
+filename	acq_time	operator	randstr
+func/sub-24_ses-002_task-PSAP_bold.nii.gz	2021-12-16T12:33:18.450000	n/a	cbf4e1c8
+func/sub-24_ses-002_task-PSAP_sbref.nii.gz	2021-12-16T12:33:18.450000	n/a	cbf4e1c8
+anat/sub-24_ses-002_T1w.nii.gz	2021-12-16T12:51:10.042500	n/a	b8820d33
